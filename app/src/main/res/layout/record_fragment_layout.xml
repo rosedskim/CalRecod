@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <Button
+            android:id="@+id/btn_left"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="\u003C\u002D"
+            android:gravity="center"
+            android:textSize="15dp"/>
+
+        <Button
+            android:id="@+id/btn_date"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:text="날짜"
+            android:gravity="center"
+            android:textSize="15dp"/>
+
+        <Button
+            android:id="@+id/btn_right"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="\u002D\u003E"
+            android:gravity="center"
+            android:textSize="15dp"/>
+
+        <Button
+            android:id="@+id/btn_cal"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:text="먹은 칼로리"
+            android:gravity="center"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/li_record"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
