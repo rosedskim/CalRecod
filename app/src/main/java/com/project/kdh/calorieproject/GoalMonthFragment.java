@@ -139,6 +139,7 @@ public class GoalMonthFragment extends Fragment implements View.OnClickListener{
                         dbHelper= new DBHelper(getActivity(), "MONTHRECORD.db",null,1);
                         SQLiteDatabase db=dbHelper.getWritableDatabase();
                         db.execSQL("INSERT INTO MONTHRECORD VALUES(null, '" + _year + "', '" + _month + "', " + cal + ");");
+                        dataSetting();
                     }
                 });
                 dlg.setNegativeButton("취소", null);

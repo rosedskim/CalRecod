@@ -182,6 +182,7 @@ public class GoalDayFragment extends Fragment implements View.OnClickListener {
                         SQLiteDatabase db=dbHelper.getWritableDatabase();
                         db.execSQL("INSERT INTO DAYRECORD VALUES(null, '" + _year + "', '" + _month + "', '" + _day + "', " + cal + ");");
                         Log.d("???","insert 되었");
+                        dataSetting();
                     }
                 });
                 dlg.setNegativeButton("취소", null);

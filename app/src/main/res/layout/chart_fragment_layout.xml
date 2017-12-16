@@ -3,9 +3,43 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/textView5"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="자료 차트" />
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_day_chart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="일 단위"
+            android:gravity="center"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/btn_month_chart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="월 단위"
+            android:gravity="center"
+            android:textSize="20dp"/>
+
+        <Button
+            android:id="@+id/btn_year_chart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="연 단위"
+            android:gravity="center"
+            android:textSize="20dp"/>
+    </LinearLayout>
+    <FrameLayout
+        android:id="@+id/chart_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+
 </LinearLayout>

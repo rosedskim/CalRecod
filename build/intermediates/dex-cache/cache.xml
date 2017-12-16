@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\4cfbd538bd3622392493a311ab97568deb808f55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c17505ec42374f74ee0e3a79b93cacce50970997\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dong\.android\build-cache\a3991101baf07002c70be6e41cb9ff245794d97d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\pre-dexed\debug\classes_88e5e2a74254e3e91ef1e93ba8da53b25a7449a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\5699fc61e3146467ebe1dca6925a547d6a64a535\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d9be9788559e8eeff0db4c67565797306ecd2ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\262e2c9df2b7c831dde91b40b4f382d5eb99bdf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0f89069fac8762278dd69eb0550968af89f84a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\d94396c15384b59c13e69602fc456c610b7ba599\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3525312a58619565858eb0c4a7f8e542aaa23c73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\cb99aa519ba2a68a57668fa79038e7f1e19f1286\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23bd80d85d95202870ee0f23a1bfba461b87e9ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\c1256b2391f5674fbe34b944c0905b3d0804e7ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_671ebc1bc9d9074308a6ba59932b782a8ed04786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\libs\GraphView-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\2\GraphView-4.2.1_b64be8fc3b6943815274ee9c874f7c1bcb6029a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\3c0b80140673233121446418b10a436e33db1ec6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d57f1f61b6f5243673ef03ad318c1270a8b9605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\a3991101baf07002c70be6e41cb9ff245794d97d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88e5e2a74254e3e91ef1e93ba8da53b25a7449a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.3\92fb46ea210fc3f0ab1125f28b33cf098583e8cf\MPAndroidChart-v3.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="92fb46ea210fc3f0ab1125f28b33cf098583e8cf">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.3_51137639323678b7bac44cc933cb1d5a915edbf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_7eafa17b66995455d0d18fb34e241ba90018a837\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\e63288d535b80fd37913c7c8f958dbab459a6515\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0e312d4b02ced5900ec2cc566f1f8c98c15aafa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\libs\GraphView-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\pre-dexed\debug\GraphView-4.2.1_b64be8fc3b6943815274ee9c874f7c1bcb6029a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_29977eb8da8591d518e4c4a1c37be88807120d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\901823a3cb16ea71a2404d67778a5da6857849fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1706605d293a7b59ac6a3799f23b904d51ea55d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dong\.android\build-cache\7ee409f85ff486dc1e96164ead2165fd1b0c96cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Dong\AndroidStudioProjects\CalorieProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c99a806d14c342e373e631c5e1ecd25a36a4e860\classes.dex" />
+    </item>
+
+</items>

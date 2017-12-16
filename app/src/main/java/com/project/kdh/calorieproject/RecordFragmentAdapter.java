@@ -180,7 +180,6 @@ public class RecordFragmentAdapter extends BaseAdapter {
 
                         db.execSQL("INSERT INTO RECORD VALUES(null, '" + record.getYear() + "', '" + record.getMonth() + "', '" + record.getDate() + "', '" + record.getFood() + "', " + String.valueOf(record.getCal()) + ", '"+record.getTime()+"');");
 
-
                     }
                 });
                 dlg.setNegativeButton("취소", new DialogInterface.OnClickListener(){

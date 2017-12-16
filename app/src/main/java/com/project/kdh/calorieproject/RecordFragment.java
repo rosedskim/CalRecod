@@ -61,6 +61,12 @@ public class RecordFragment  extends Fragment implements View.OnClickListener{
     private LinkedList<Pair<String ,Integer>> list;
 
     @Override
+    public void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        Log.d("호출","???");
+    }
+
+    @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, Bundle savedInstanceState) {
 
         ViewGroup rootView=(ViewGroup)inflater.inflate(R.layout.record_fragment_layout,container,false);
@@ -104,6 +110,13 @@ public class RecordFragment  extends Fragment implements View.OnClickListener{
         return rootView;
     }
 
+    @Override
+    public void onResume() {
+        Log.d("재호출","??");
+        dataSetting();
+        super.onResume();
+
+    }
 
     @Override
     public void onClick(View view) {
