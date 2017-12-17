@@ -50,6 +50,7 @@ public class StatisticYearFragment extends Fragment {
         while(cursor.moveToNext())
         {
             pair p=new pair(cursor.getString(0),cursor.getInt(1));
+            Log.d("값",cursor.getString(0)+cursor.getInt(1));
             list.add(p);
             total_cal+=cursor.getInt(1);
         }
@@ -65,19 +66,24 @@ public class StatisticYearFragment extends Fragment {
                 year_list.add(temp);
             }
             else {
-                for (int j = 0; j < year_list.size(); j++) {
+                boolean check=false;
+                for (int j = 0; j < year_list.size(); j++)
+                {
+                    Log.d("연도리스트",year_list.get(j).getYear());
+                    Log.d("리스트",list.get(j).getYear());
                     //연도 같은거면
-                    if (year_list.get(j).getYear().equals(list.get(i).getYear())) {
+                    if (year_list.get(j).getYear().equals(list.get(i).getYear()))
+                    {
                         //칼로리 추가
                         year_list.get(j).setCal(year_list.get(j).getCal() + list.get(i).getCal());
+                        check=true;
                         break;
                     }
-                    //연도 다른거나오면 넣기
-                    else {
-                        pair temp = new pair(list.get(i).getYear(), list.get(i).getCal());
-                        year_list.add(temp);
-                        break;
-                    }
+                }
+                if(check==false)
+                {
+                    pair temp = new pair(list.get(i).getYear(), list.get(i).getCal());
+                    year_list.add(temp);
                 }
             }
         }
